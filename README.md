@@ -45,7 +45,7 @@ npm start
 - Visit [newsapi.org](https://newsapi.org/)
 - Create an account and Copy the API key.
 - open the *".env"* file.
-- Replace the API KEY to the copied API key.
+- Replace the YOUR_API_KEY with copied API key.
 
 ## Usage
 - Open your browser and navigate to `http://localhost:3000`.
