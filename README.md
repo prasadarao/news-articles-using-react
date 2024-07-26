@@ -1,4 +1,7 @@
 # News App
+
+![](https://github.com/prasadarao/news-articles-using-react/blob/main/src/images/sample.png)
+
 This app is powered by Newsapi.org public API's and provide category based latest articles from around the world. This app allows users to easily browse and read articles of their interest.
 
 
