@@ -53,3 +53,4 @@ npm start
 ## Usage
 - Open your browser and navigate to `http://localhost:3000`.
 - Browse through the category specific news articles.
+- Infinite scroll functionality has been added to fetch the next page of data as the user scrolls down
